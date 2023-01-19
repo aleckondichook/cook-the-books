@@ -1,0 +1,746 @@
+[
+    {
+        "team": "Anaheim Ducks",
+        "info": {
+            "url": "https://res.cloudinary.com/geeb/image/upload/w_100,h_100,c_limit/v1652759743/logos/nhl/anaheim_ducks_xic7xs.png"
+        }
+    },
+    {
+        "team": "Arizona Coyotes",
+        "info": {
+            "url": "https://res.cloudinary.com/geeb/image/upload/w_100,h_100,c_limit/v1652759743/logos/nhl/arizona_coyotes_vjmfhu.png"
+        }
+    },
+    {
+        "team": "Boston Bruins",
+        "info": {
+            "url": "https://res.cloudinary.com/geeb/image/upload/w_100,h_100,c_limit/v1652759743/logos/nhl/boston_bruins_m3geon.png"
+        }
+    },
+    {
+        "team": "Buffalo Sabres",
+        "info": {
+            "url": "https://res.cloudinary.com/geeb/image/upload/w_100,h_100,c_limit/v1652224175/logos/nhl/buffalo_sabres.png"
+        }
+    },
+    {
+        "team": "Calgary Flames",
+        "info": {
+            "url": "https://res.cloudinary.com/geeb/image/upload/w_100,h_100,c_limit/v1652759743/logos/nhl/calgary_flames_fgqzbg.png"
+        }
+    },
+    {
+        "team": "Carolina Hurricanes",
+        "info": {
+            "url": "https://res.cloudinary.com/geeb/image/upload/w_100,h_100,c_limit/v1652759743/logos/nhl/carolina_hurricanes_sw4iyc.png"
+        }
+    },
+    {
+        "team": "Chicago Blackhawks",
+        "info": {
+            "url": "https://res.cloudinary.com/geeb/image/upload/w_100,h_100,c_limit/v1652759743/logos/nhl/chicago_blackhawks_hvtphd.png"
+        }
+    },
+    {
+        "team": "Colorado Avalanche",
+        "info": {
+            "url": "https://res.cloudinary.com/geeb/image/upload/w_100,h_100,c_limit/v1652759743/logos/nhl/colorado_avalanche_pgqd5t.png"
+        }
+    },
+    {
+        "team": "Columbus Blue Jackets",
+        "info": {
+            "url": "https://res.cloudinary.com/geeb/image/upload/w_100,h_100,c_limit/v1652759743/logos/nhl/columbus_bluejackets_uwqbha.png"
+        }
+    },
+    {
+        "team": "Dallas Stars",
+        "info": {
+            "url": "https://res.cloudinary.com/geeb/image/upload/w_100,h_100,c_limit/v1652759743/logos/nhl/dallas_stars_ftz1a4.png"
+        }
+    },
+    {
+        "team": "Detroit Red Wings",
+        "info": {
+            "url": "https://res.cloudinary.com/geeb/image/upload/w_100,h_100,c_limit/v1652759743/logos/nhl/detroit_redwings_u36b2c.png"
+        }
+    },
+    {
+        "team": "Edmonton Oilers",
+        "info": {
+            "url": "https://res.cloudinary.com/geeb/image/upload/w_100,h_100,c_limit/v1652759743/logos/nhl/edmonton_oilers_mknr3s.png"
+        }
+    },
+    {
+        "team": "Florida Panthers",
+        "info": {
+            "url": "https://res.cloudinary.com/geeb/image/upload/w_100,h_100,c_limit/v1652759744/logos/nhl/florida_panthers_tpv3iy.png"
+        }
+    },
+    {
+        "team": "Los Angeles Kings",
+        "info": {
+            "url": "https://res.cloudinary.com/geeb/image/upload/w_100,h_100,c_limit/v1652760050/logos/nhl/losangeles_kings_rjhjrd.png"
+        }
+    },
+    {
+        "team": "Minnesota Wild",
+        "info": {
+            "url": "https://res.cloudinary.com/geeb/image/upload/w_100,h_100,c_limit/v1652759744/logos/nhl/minnesota_wild_ejwkal.png"
+        }
+    },
+    {
+        "team": "Montréal Canadiens",
+        "info": {
+            "url": "https://res.cloudinary.com/geeb/image/upload/w_100,h_100,c_limit/v1652759744/logos/nhl/montreal_canadians_ynfwoo.png"
+        }
+    },
+    {
+        "team": "Nashville Predators",
+        "info": {
+            "url": "https://res.cloudinary.com/geeb/image/upload/w_100,h_100,c_limit/v1652759744/logos/nhl/nashville_predators_sfcp5p.png"
+        }
+    },
+    {
+        "team": "New Jersey Devils",
+        "info": {
+            "url": "https://res.cloudinary.com/geeb/image/upload/w_100,h_100,c_limit/v1652759744/logos/nhl/newjersey_devils_zqebuf.png"
+        }
+    },
+    {
+        "team": "New York Islanders",
+        "info": {
+            "url": "https://res.cloudinary.com/geeb/image/upload/w_100,h_100,c_limit/v1652759744/logos/nhl/newyork_islanders_yqg30w.png"
+        }
+    },
+    {
+        "team": "New York Rangers",
+        "info": {
+            "url": "https://res.cloudinary.com/geeb/image/upload/w_100,h_100,c_limit/v1652759744/logos/nhl/newyork_rangers_kz2ieu.png"
+        }
+    },
+    {
+        "team": "Ottawa Senators",
+        "info": {
+            "url": "https://res.cloudinary.com/geeb/image/upload/w_100,h_100,c_limit/v1652759745/logos/nhl/ottawa_senators_s0k0rn.png"
+        }
+    },
+    {
+        "team": "Philadelphia Flyers",
+        "info": {
+            "url": "https://res.cloudinary.com/geeb/image/upload/w_100,h_100,c_limit/v1652759744/logos/nhl/philadelphia_flyers_r5wvve.png"
+        }
+    },
+    {
+        "team": "Pittsburgh Penguins",
+        "info": {
+            "url": "https://res.cloudinary.com/geeb/image/upload/w_100,h_100,c_limit/v1652759744/logos/nhl/pittsburgh_penguins_icti0v.png"
+        }
+    },
+    {
+        "team": "San Jose Sharks",
+        "info": {
+            "url": "https://res.cloudinary.com/geeb/image/upload/w_100,h_100,c_limit/v1652759745/logos/nhl/sanjose_sharks_nj7jch.png"
+        }
+    },
+    {
+        "team": "Seattle Kraken",
+        "info": {
+            "url": "https://res.cloudinary.com/geeb/image/upload/w_100,h_100,c_limit/v1652760341/logos/nhl/seattle_kraken_fwvrfp.png"
+        }
+    },
+    {
+        "team": "St Louis Blues",
+        "info": {
+            "url": "https://res.cloudinary.com/geeb/image/upload/w_100,h_100,c_limit/v1652759745/logos/nhl/stlouis_blues_qhdeqb.png"
+        }
+    },
+    {
+        "team": "Tampa Bay Lightning",
+        "info": {
+            "url": "https://res.cloudinary.com/geeb/image/upload/w_100,h_100,c_limit/v1652759745/logos/nhl/tampabay_lightning_nwaebx.png"
+        }
+    },
+    {
+        "team": "Toronto Maple Leafs",
+        "info": {
+            "url": "https://res.cloudinary.com/geeb/image/upload/w_100,h_100,c_limit/v1652759745/logos/nhl/toronto_mapleleafs_acjqmq.png"
+        }
+    },
+    {
+        "team": "Vancouver Canucks",
+        "info": {
+            "url": "https://res.cloudinary.com/geeb/image/upload/w_100,h_100,c_limit/v1652759745/logos/nhl/vancouver_canucks_tokfvl.png"
+        }
+    },
+    {
+        "team": "Vegas Golden Knights",
+        "info": {
+            "url": "https://res.cloudinary.com/geeb/image/upload/w_100,h_100,c_limit/v1652759745/logos/nhl/vegas_goldenknights_rxcevq.png"
+        }
+    },
+    {
+        "team": "Washington Capitals",
+        "info": {
+            "url": "https://res.cloudinary.com/geeb/image/upload/w_100,h_100,c_limit/v1651969293/logos/nhl/washington_capitals.png"
+        }
+    },
+    {
+        "team": "Winnipeg Jets",
+        "info": {
+            "url": "https://res.cloudinary.com/geeb/image/upload/w_100,h_100,c_limit/v1652759745/logos/nhl/winnipeg_jets_mxiyzc.png"
+        }
+    },
+    {
+        "team": "Baltimore Orioles",
+        "info": {
+            "url": "https://res.cloudinary.com/geeb/image/upload/w_100,h_100,c_limit/v1652761832/logos/mlb/baltimore_orioles_eptudl.png"
+        }
+    },
+    {
+        "team": "Boston Red Sox",
+        "info": {
+            "url": "https://res.cloudinary.com/geeb/image/upload/w_100,h_100,c_limit/v1652761832/logos/mlb/boston_redsox_dfikvb.png"
+        }
+    },
+    {
+        "team": "Chicago White Sox",
+        "info": {
+            "url": "https://res.cloudinary.com/geeb/image/upload/w_100,h_100,c_limit/v1652761832/logos/mlb/chicago_whitesox_wthddv.png"
+        }
+    },
+    {
+        "team": "Cleveland Guardians",
+        "info": {
+            "url": "https://res.cloudinary.com/geeb/image/upload/w_100,h_100,c_limit/v1652761833/logos/mlb/cleveland_guardians_culpel.png"
+        }
+    },
+    {
+        "team": "Detroit Tigers",
+        "info": {
+            "url": "https://res.cloudinary.com/geeb/image/upload/w_100,h_100,c_limit/v1652761833/logos/mlb/detroit_tigers_wbufsu.png"
+        }
+    },
+    {
+        "team": "Houston Astros",
+        "info": {
+            "url": "https://res.cloudinary.com/geeb/image/upload/w_100,h_100,c_limit/v1652761833/logos/mlb/houston_astros_mzxt3p.png"
+        }
+    },
+    {
+        "team": "Kansas City Royals",
+        "info": {
+            "url": "https://res.cloudinary.com/geeb/image/upload/w_100,h_100,c_limit/v1652761833/logos/mlb/kansascity_royals_fr2z5u.png"
+        }
+    },
+    {
+        "team": "Los Angeles Angels",
+        "info": {
+            "url": "https://res.cloudinary.com/geeb/image/upload/w_100,h_100,c_limit/v1652761833/logos/mlb/losangeles_angels_befj48.png"
+        }
+    },
+    {
+        "team": "Minnesota Twins",
+        "info": {
+            "url": "https://res.cloudinary.com/geeb/image/upload/w_100,h_100,c_limit/v1652761833/logos/mlb/minnesota_twins_ewbeub.png"
+        }
+    },
+    {
+        "team": "New York Yankees",
+        "info": {
+            "url": "https://res.cloudinary.com/geeb/image/upload/w_100,h_100,c_limit/v1652761833/logos/mlb/newyork_yankees_qwpw3d.png"
+        }
+    },
+    {
+        "team": "Oakland Athletics",
+        "info": {
+            "url": "https://res.cloudinary.com/geeb/image/upload/w_100,h_100,c_limit/v1652761833/logos/mlb/oakland_athletics_kbio4k.png"
+        }
+    },
+    {
+        "team": "Seattle Mariners",
+        "info": {
+            "url": "https://res.cloudinary.com/geeb/image/upload/w_100,h_100,c_limit/v1652761834/logos/mlb/seattle_mariners_dpbfxr.png"
+        }
+    },
+    {
+        "team": "Tampa Bay Rays",
+        "info": {
+            "url": "https://res.cloudinary.com/geeb/image/upload/w_100,h_100,c_limit/v1652761834/logos/mlb/tampabay_rays_gwrgf7.png"
+        }
+    },
+    {
+        "team": "Texas Rangers",
+        "info": {
+            "url": "https://res.cloudinary.com/geeb/image/upload/w_100,h_100,c_limit/v1652761834/logos/mlb/texas_rangers_uf5djd.png"
+        }
+    },
+    {
+        "team": "Toronto Blue Jays",
+        "info": {
+            "url": "https://res.cloudinary.com/geeb/image/upload/w_100,h_100,c_limit/v1652761834/logos/mlb/toronto_bluejays_rqtiaq.png"
+        }
+    },
+    {
+        "team": "Arizona Diamondbacks",
+        "info": {
+            "url": "https://res.cloudinary.com/geeb/image/upload/w_100,h_100,c_limit/v1652761832/logos/mlb/arizona_diamondbacks_w90beh.png"
+        }
+    },
+    {
+        "team": "Atlanta Braves",
+        "info": {
+            "url": "https://res.cloudinary.com/geeb/image/upload/w_100,h_100,c_limit/v1652761832/logos/mlb/atlanta_braves_miwqjk.png"
+        }
+    },
+    {
+        "team": "Chicago Cubs",
+        "info": {
+            "url": "https://res.cloudinary.com/geeb/image/upload/w_100,h_100,c_limit/v1652761832/logos/mlb/chicago_cubs_r28qs0.png"
+        }
+    },
+    {
+        "team": "Cincinnati Reds",
+        "info": {
+            "url": "https://res.cloudinary.com/geeb/image/upload/w_100,h_100,c_limit/v1652761832/logos/mlb/cincinnati_reds_pttteg.png"
+        }
+    },
+    {
+        "team": "Colorado Rockies",
+        "info": {
+            "url": "https://res.cloudinary.com/geeb/image/upload/w_100,h_100,c_limit/v1652761833/logos/mlb/colorado_rockies_xxo1hy.png"
+        }
+    },
+    {
+        "team": "Los Angeles Dodgers",
+        "info": {
+            "url": "https://res.cloudinary.com/geeb/image/upload/w_100,h_100,c_limit/v1652761833/logos/mlb/losangeles_dodgers_lrpcmi.png"
+        }
+    },
+    {
+        "team": "Miami Marlins",
+        "info": {
+            "url": "https://res.cloudinary.com/geeb/image/upload/w_100,h_100,c_limit/v1652761833/logos/mlb/florida_marlins_wp6fah.png"
+        }
+    },
+    {
+        "team": "Milwaukee Brewers",
+        "info": {
+            "url": "https://res.cloudinary.com/geeb/image/upload/w_100,h_100,c_limit/v1652761833/logos/mlb/milwaukee_brewers_mss9sn.png"
+        }
+    },
+    {
+        "team": "New York Mets",
+        "info": {
+            "url": "https://res.cloudinary.com/geeb/image/upload/w_100,h_100,c_limit/v1652761833/logos/mlb/newyork_mets_jakmme.png"
+        }
+    },
+    {
+        "team": "Philadelphia Phillies",
+        "info": {
+            "url": "https://res.cloudinary.com/geeb/image/upload/w_100,h_100,c_limit/v1652761833/logos/mlb/philadelphia_phillies_bxfljb.png"
+        }
+    },
+    {
+        "team": "Pittsburgh Pirates",
+        "info": {
+            "url": "https://res.cloudinary.com/geeb/image/upload/w_100,h_100,c_limit/v1652761833/logos/mlb/pittsburgh_pirates_nomghr.png"
+        }
+    },
+    {
+        "team": "San Diego Padres",
+        "info": {
+            "url": "https://res.cloudinary.com/geeb/image/upload/w_100,h_100,c_limit/v1652761834/logos/mlb/sandiego_padres_rztymy.png"
+        }
+    },
+    {
+        "team": "San Francisco Giants",
+        "info": {
+            "url": "https://res.cloudinary.com/geeb/image/upload/w_100,h_100,c_limit/v1652761834/logos/mlb/sanfrancisco_giants_uof7t1.png"
+        }
+    },
+    {
+        "team": "St. Louis Cardinals",
+        "info": {
+            "url": "https://res.cloudinary.com/geeb/image/upload/w_100,h_100,c_limit/v1652761834/logos/mlb/stlouis_cardinals_w04qao.png"
+        }
+    },
+    {
+        "team": "Washington Nationals",
+        "info": {
+            "url": "https://res.cloudinary.com/geeb/image/upload/w_100,h_100,c_limit/v1652761834/logos/mlb/washington_nationals_egwqdm.png"
+        }
+    },
+    {
+        "team": "Atlanta Hawks",
+        "info": {
+            "url": "https://res.cloudinary.com/geeb/image/upload/w_100,h_100,c_limit/v1651969134/logos/nba/atlanta_hawks.png"
+        }
+    },
+    {
+        "team": "Boston Celtics",
+        "info": {
+            "url": "https://res.cloudinary.com/geeb/image/upload/w_100,h_100,c_limit/v1651968963/logos/nba/boston_celtics.png"
+        }
+    },
+    {
+        "team": "Brooklyn Nets",
+        "info": {
+            "url": "https://res.cloudinary.com/geeb/image/upload/w_100,h_100,c_limit/v1652750888/logos/nba/brooklyn_nets_f0cxsr.png"
+        }
+    },
+    {
+        "team": "Charlotte Hornets",
+        "info": {
+            "url": "https://res.cloudinary.com/geeb/image/upload/w_100,h_100,c_limit/v1652750888/logos/nba/charlotte_hornets_gwolsi.png"
+        }
+    },
+    {
+        "team": "Chicago Bulls",
+        "info": {
+            "url": "https://res.cloudinary.com/geeb/image/upload/w_100,h_100,c_limit/v1652750888/logos/nba/chicago_bulls_ozqodr.png"
+        }
+    },
+    {
+        "team": "Cleveland Cavaliers",
+        "info": {
+            "url": "https://res.cloudinary.com/geeb/image/upload/w_100,h_100,c_limit/v1652750888/logos/nba/cleveland_cavaliers_pr1fmt.png"
+        }
+    },
+    {
+        "team": "Dallas Mavericks",
+        "info": {
+            "url": "https://res.cloudinary.com/geeb/image/upload/w_100,h_100,c_limit/v1652750888/logos/nba/dallas_mavericks_divavm.png"
+        }
+    },
+    {
+        "team": "Denver Nuggets",
+        "info": {
+            "url": "https://res.cloudinary.com/geeb/image/upload/w_100,h_100,c_limit/v1652750888/logos/nba/denver_nuggets_dmyqfj.png"
+        }
+    },
+    {
+        "team": "Detroit Pistons",
+        "info": {
+            "url": "https://res.cloudinary.com/geeb/image/upload/w_100,h_100,c_limit/v1652750888/logos/nba/detroit_pistons_cbatqt.png"
+        }
+    },
+    {
+        "team": "Golden State Warriors",
+        "info": {
+            "url": "https://res.cloudinary.com/geeb/image/upload/w_100,h_100,c_limit/v1652750889/logos/nba/goldenstate_warriors_buezot.png"
+        }
+    },
+    {
+        "team": "Houston Rockets",
+        "info": {
+            "url": "https://res.cloudinary.com/geeb/image/upload/w_100,h_100,c_limit/v1652750889/logos/nba/houston_rockets_tnxx0l.png"
+        }
+    },
+    {
+        "team": "Indiana Pacers",
+        "info": {
+            "url": "https://res.cloudinary.com/geeb/image/upload/w_100,h_100,c_limit/v1652751375/logos/nba/indiana_pacers_c0ktfl.png"
+        }
+    },
+    {
+        "team": "Los Angeles Clippers",
+        "info": {
+            "url": "https://res.cloudinary.com/geeb/image/upload/w_100,h_100,c_limit/v1652751375/logos/nba/losangeles_clippers_sryram.png"
+        }
+    },
+    {
+        "team": "Los Angeles Lakers",
+        "info": {
+            "url": "https://res.cloudinary.com/geeb/image/upload/w_100,h_100,c_limit/v1652751375/logos/nba/losangeles_lakers_kldpwp.png"
+        }
+    },
+    {
+        "team": "Memphis Grizzlies",
+        "info": {
+            "url": "https://res.cloudinary.com/geeb/image/upload/w_100,h_100,c_limit/v1652751375/logos/nba/memphis_grizzlies_rxpz4o.png"
+        }
+    },
+    {
+        "team": "Miami Heat",
+        "info": {
+            "url": "https://res.cloudinary.com/geeb/image/upload/w_100,h_100,c_limit/v1652751375/logos/nba/miami_heat_cslixa.png"
+        }
+    },
+    {
+        "team": "Milwaukee Bucks",
+        "info": {
+            "url": "https://res.cloudinary.com/geeb/image/upload/w_100,h_100,c_limit/v1652751375/logos/nba/milwaukee_bucks_nsxknr.png"
+        }
+    },
+    {
+        "team": "Minnesota Timberwolves",
+        "info": {
+            "url": "https://res.cloudinary.com/geeb/image/upload/w_100,h_100,c_limit/v1652751375/logos/nba/minnesota_timberwolves_ylupfi.png"
+        }
+    },
+    {
+        "team": "New Orleans Pelicans",
+        "info": {
+            "url": "https://res.cloudinary.com/geeb/image/upload/w_100,h_100,c_limit/v1652751376/logos/nba/neworleans_pelicans_wyvkaj.png"
+        }
+    },
+    {
+        "team": "New York Knicks",
+        "info": {
+            "url": "https://res.cloudinary.com/geeb/image/upload/w_100,h_100,c_limit/v1652751375/logos/nba/newyork_knicks_zwus7a.png"
+        }
+    },
+    {
+        "team": "Oklahoma City Thunder",
+        "info": {
+            "url": "https://res.cloudinary.com/geeb/image/upload/w_100,h_100,c_limit/v1652751375/logos/nba/oklahomacity_thunder_qx5yd4.png"
+        }
+    },
+    {
+        "team": "Orlando Magic",
+        "info": {
+            "url": "https://res.cloudinary.com/geeb/image/upload/w_100,h_100,c_limit/v1652751376/logos/nba/orlando_magic_dzefuw.png"
+        }
+    },
+    {
+        "team": "Philadelphia 76ers",
+        "info": {
+            "url": "https://res.cloudinary.com/geeb/image/upload/w_100,h_100,c_limit/v1652751376/logos/nba/philadelphia_76ers_eqvmld.png"
+        }
+    },
+    {
+        "team": "Phoenix Suns",
+        "info": {
+            "url": "https://res.cloudinary.com/geeb/image/upload/w_100,h_100,c_limit/v1652751376/logos/nba/pheonix_suns_zjtpxa.png"
+        }
+    },
+    {
+        "team": "Portland Trail Blazers",
+        "info": {
+            "url": "https://res.cloudinary.com/geeb/image/upload/w_100,h_100,c_limit/v1652751376/logos/nba/portland_trailblazers_wooe1y.png"
+        }
+    },
+    {
+        "team": "Sacramento Kings",
+        "info": {
+            "url": "https://res.cloudinary.com/geeb/image/upload/w_100,h_100,c_limit/v1652751376/logos/nba/sacramento_kings_qtde9t.png"
+        }
+    },
+    {
+        "team": "San Antonio Spurs",
+        "info": {
+            "url": "https://res.cloudinary.com/geeb/image/upload/w_100,h_100,c_limit/v1652751376/logos/nba/sanantonio_spurs_n1f2rj.png"
+        }
+    },
+    {
+        "team": "Toronto Raptors",
+        "info": {
+            "url": "https://res.cloudinary.com/geeb/image/upload/w_100,h_100,c_limit/v1652751376/logos/nba/toronto_raptors_ulqb4o.png"
+        }
+    },
+    {
+        "team": "Utah Jazz",
+        "info": {
+            "url": "https://res.cloudinary.com/geeb/image/upload/w_100,h_100,c_limit/v1652751377/logos/nba/utah_jazz_fzpmwu.png"
+        }
+    },
+    {
+        "team": "Washington Wizards",
+        "info": {
+            "url": "https://res.cloudinary.com/geeb/image/upload/w_100,h_100,c_limit/v1652751377/logos/nba/washington_wizards_bw21ep.png"
+        }
+    },
+    {
+        "team": "Arizona Cardinals",
+        "info": {
+            "url": "https://content.sportslogos.net/logos/7/177/thumbs/kwth8f1cfa2sch5xhjjfaof90.gif"
+        }
+    },
+    {
+        "team": "Atlanta Falcons",
+        "info": {
+            "url": "https://content.sportslogos.net/logos/7/173/thumbs/299.gif"
+        }
+    },
+    {
+        "team": "Baltimore Ravens",
+        "info": {
+            "url": "https://content.sportslogos.net/logos/7/153/thumbs/318.gif"
+        }
+    },
+    {
+        "team": "Buffalo Bills",
+        "info": {
+            "url": "https://content.sportslogos.net/logos/7/149/thumbs/n0fd1z6xmhigb0eej3323ebwq.gif"
+        }
+    },
+    {
+        "team": "Carolina Panthers",
+        "info": {
+            "url": "https://content.sportslogos.net/logos/7/174/thumbs/f1wggq2k8ql88fe33jzhw641u.gif"
+        }
+    },
+    {
+        "team": "Chicago Bears",
+        "info": {
+            "url": "https://content.sportslogos.net/logos/7/169/thumbs/364.gif"
+        }
+    },
+    {
+        "team": "Cincinnati Bengals",
+        "info": {
+            "url": "https://content.sportslogos.net/logos/7/154/thumbs/15420492021.gif"
+        }
+    },
+    {
+        "team": "Cleveland Browns",
+        "info": {
+            "url": "https://content.sportslogos.net/logos/7/155/thumbs/15578552015.gif"
+        }
+    },
+    {
+        "team": "Dallas Cowboys",
+        "info": {
+            "url": "https://content.sportslogos.net/logos/7/165/thumbs/406.gif"
+        }
+    },
+    {
+        "team": "Denver Broncos",
+        "info": {
+            "url": "https://content.sportslogos.net/logos/7/161/thumbs/9ebzja2zfeigaziee8y605aqp.gif"
+        }
+    },
+    {
+        "team": "Detroit Lions",
+        "info": {
+            "url": "https://content.sportslogos.net/logos/7/170/thumbs/17013982017.gif"
+        }
+    },
+    {
+        "team": "Green Bay Packers",
+        "info": {
+            "url": "https://content.sportslogos.net/logos/7/171/thumbs/dcy03myfhffbki5d7il3.gif"
+        }
+    },
+    {
+        "team": "Houston Texans",
+        "info": {
+            "url": "https://content.sportslogos.net/logos/7/157/thumbs/570.gif"
+        }
+    },
+    {
+        "team": "Indianapolis Colts",
+        "info": {
+            "url": "https://content.sportslogos.net/logos/7/158/thumbs/593.gif"
+        }
+    },
+    {
+        "team": "Jacksonville Jaguars",
+        "info": {
+            "url": "https://content.sportslogos.net/logos/7/159/thumbs/15988562013.gif"
+        }
+    },
+    {
+        "team": "Kansas City Chiefs",
+        "info": {
+            "url": "https://content.sportslogos.net/logos/7/162/thumbs/857.gif"
+        }
+    },
+    {
+        "team": "Las Vegas Raiders",
+        "info": {
+            "url": "https://content.sportslogos.net/logos/7/6708/thumbs/670885212020.gif"
+        }
+    },
+    {
+        "team": "Los Angeles Chargers",
+        "info": {
+            "url": "https://content.sportslogos.net/logos/7/6446/thumbs/644616602020.gif"
+        }
+    },
+    {
+        "team": "Los Angeles Rams",
+        "info": {
+            "url": "https://content.sportslogos.net/logos/7/5941/thumbs/594183342020.gif"
+        }
+    },
+    {
+        "team": "Miami Dolphins",
+        "info": {
+            "url": "https://content.sportslogos.net/logos/7/150/thumbs/15073062018.gif"
+        }
+    },
+    {
+        "team": "Minnesota Vikings",
+        "info": {
+            "url": "https://content.sportslogos.net/logos/7/172/thumbs/17227042013.gif"
+        }
+    },
+    {
+        "team": "New England Patriots",
+        "info": {
+            "url": "https://content.sportslogos.net/logos/7/151/thumbs/y71myf8mlwlk8lbgagh3fd5e0.gif"
+        }
+    },
+    {
+        "team": "New Orleans Saints",
+        "info": {
+            "url": "https://content.sportslogos.net/logos/7/175/thumbs/907.gif"
+        }
+    },
+    {
+        "team": "New York Giants",
+        "info": {
+            "url": "https://content.sportslogos.net/logos/7/166/thumbs/919.gif"
+        }
+    },
+    {
+        "team": "New York Jets",
+        "info": {
+            "url": "https://content.sportslogos.net/logos/7/152/thumbs/15291162019.gif"
+        }
+    },
+    {
+        "team": "Philadelphia Eagles",
+        "info": {
+            "url": "https://content.sportslogos.net/logos/7/167/thumbs/960.gif"
+        }
+    },
+    {
+        "team": "Pittsburgh Steelers",
+        "info": {
+            "url": "https://content.sportslogos.net/logos/7/156/thumbs/970.gif"
+        }
+    },
+    {
+        "team": "San Francisco 49ers",
+        "info": {
+            "url": "https://content.sportslogos.net/logos/7/179/thumbs/17994552009.gif"
+        }
+    },
+    {
+        "team": "Seattle Seahawks",
+        "info": {
+            "url": "https://content.sportslogos.net/logos/7/180/thumbs/pfiobtreaq7j0pzvadktsc6jv.gif"
+        }
+    },
+    {
+        "team": "Tampa Bay Buccaneers",
+        "info": {
+            "url": "https://content.sportslogos.net/logos/7/176/thumbs/17683632020.gif"
+        }
+    },
+    {
+        "team": "Tennessee Titans",
+        "info": {
+            "url": "https://content.sportslogos.net/logos/7/160/thumbs/1053.gif"
+        }
+    },
+    {
+        "team": "Washington Commanders",
+        "info": {
+            "url": "https://content.sportslogos.net/logos/7/6832/thumbs/683260482022.gif"
+        }
+    }
+]
