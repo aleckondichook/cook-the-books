@@ -1,4 +1,4 @@
-# cook_the_books
+# cook-the-books
 
 A website that provides users with sports betting arbitrage opportunities. Users can select which sport and type of bet and find opportunities to bet on both sides of the game and make a risk free return.
 
